@@ -1,3 +1,5 @@
+// 5.	WAP to control LED brightness using PWM.
+
 int ledPin = 18;
 int channel = 0;
 
