@@ -1,3 +1,5 @@
+// 8.	WAP to control LED using Serial input.
+
 int ledPin = 18; 
 char command;     
 
