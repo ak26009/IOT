@@ -1,3 +1,5 @@
+// 7.	WAP to send sensor data to Serial Monitor.
+
 int sensorValue = 0;
 
 void setup() {
